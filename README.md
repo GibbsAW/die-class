@@ -1,4 +1,4 @@
-# The second Git Lab
+# The second Git lab
 ## First team member: Alexander
 ## Second team member: Gibbs
-This repository is an example of a C++ project.
+### Die Project: simulates the rolling of a die wish a specified number of sides.
