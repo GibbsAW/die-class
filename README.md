@@ -1,3 +1,2 @@
-# Git Lab #2
-## First team member: Alexander Gibbs
-
+# The second Git Lab
+## Second team member: <Enter your name here>
